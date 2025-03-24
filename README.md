@@ -1,4 +1,4 @@
-#**Speech Processing for Data Mining CIA-1**
+**Speech Processing for Data Mining CIA-1**
 
 Overview
 This project focuses on processing speech data for speech recognition using data mining techniques. It involves preprocessing, feature extraction, and noise removal to improve speech clarity.
